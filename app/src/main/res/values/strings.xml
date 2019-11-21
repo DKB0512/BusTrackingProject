@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Student Bus Tracker</string>
+
+    <string name="User_name">Username</string>
+    <string name="Pass_word">Password</string>
+    <string name="Login">Login</string>
+    <string name="CFS">CFS</string>
+    <string name="Track">Track the Bus</string>
+    <string name="Student_Login">Client Login</string>
+    <string name="LatiLong">Latitude: Longitude: </string>
+    <string name="title_activity_Client_Map">Map</string>
+    <string name="Tip">Tip : You can use GPS for more accurate location</string>
+    <string name="ByBus">By Bus</string>
+    <string name="ByRoute">By Route</string>
+    <string name="select_by">Select By :</string>
+    <string name="logout">Logout</string>
+    <string name="DR">Driver Registration</string>
+    <string name="registration">Registration</string>
+    <string name="call_for_stop">Call For Stop</string>
+    <string name="title_activity_client_map">Map</string>
+</resources>

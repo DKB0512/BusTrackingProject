@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "98812882660",
+    "firebase_url": "https://bus-tracking-project-46848.firebaseio.com",
+    "project_id": "bus-tracking-project-46848",
+    "storage_bucket": "bus-tracking-project-46848.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98812882660:android:1c15ef0554deb806",
+        "android_client_info": {
+          "package_name": "com.example.studentbustracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98812882660-oem45sdrvlo1ms1plsku5md6fs45qb6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4pcm5KFZP0mzCZkCXocuNwUKT_WDbPV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98812882660-oem45sdrvlo1ms1plsku5md6fs45qb6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

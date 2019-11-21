@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/Logout"
+        android:layout_width="164dp"
+        android:layout_height="43dp"
+        android:layout_alignBottom="@+id/map"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="251dp"
+        android:layout_marginEnd="26dp"
+        android:layout_marginBottom="72dp"
+        android:text="@string/logout" />
+
+    <Button
+        android:id="@+id/CFS"
+        android:layout_width="164dp"
+        android:layout_height="43dp"
+        android:layout_alignBottom="@+id/map"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="18dp"
+        android:layout_marginEnd="259dp"
+        android:layout_marginBottom="72dp"
+        android:text="@string/CFS" />
+
+    <Button
+        android:id="@+id/Track"
+        android:layout_width="377dp"
+        android:layout_height="50dp"
+        android:layout_alignBottom="@+id/map"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="18dp"
+        android:layout_marginBottom="12dp"
+        android:text="@string/Track" />
+
+    <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".ClientMap" />
+
+
+</RelativeLayout>
